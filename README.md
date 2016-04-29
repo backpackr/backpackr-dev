@@ -5,8 +5,7 @@
 ## 아이디어스(idus)는 어떤 서비스인가요?
 핸드메이드 **작가님들이 손으로 직접 만든 작품**을 살 수 있는 장터서비스 입니다. 
 
-일명, **핸드메이드 전용 오픈마켓**입니다. 
-
+일명, **핸드메이드 전용 오픈마켓**입니다.  
 
 ## 개발팀은 어떤 사람들이 있나요?
 >* 산전수전 공중전을 다겪어본 서버 개발자
@@ -58,11 +57,16 @@
 * 파일 양식은 PDF로 부탁드립니다.  
 
 #### 지원하기전에 아이디어스 앱을 써보는건 어떨까요? 
-> * [iOS 다운로드](https://itunes.apple.com/kr/app/aidieoseu-idus-haendeumeideu/id872469884?mt=8)
-> * [안드로이드 다운로드] (https://play.google.com/store/apps/details?id=kr.backpackr.me.idus&hl=ko)
+> * [iOS](https://itunes.apple.com/kr/app/aidieoseu-idus-haendeumeideu/id872469884?mt=8)
+> * [안드로이드] (https://play.google.com/store/apps/details?id=kr.backpackr.me.idus&hl=ko)
 
+## 백패커는 어떤 회사인가요?
++ 2013년 대한민국에서 가장 많은 유료앱 다운로드를 기록한 회사
++ 애플이 선정한 2013년을 빛낸 최고작 1위 배출
++ 앱스토어 유료 전체 1위를 가장 오랜기간 기록한 회사
++ 2013년 여름을 전직원이 동남아 20개 도시를 배낭여행하며 개발한 회사
 
-## 백패커는 어떤 회사인가요? 
+## 회사 약력 
 > 2012.11 – 자본금 100만원으로 설립
 
 > 2013.01 – 출시하는 유로 앱마다 전체 1위 기록
