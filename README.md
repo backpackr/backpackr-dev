@@ -53,9 +53,13 @@
 * Full stack 개발에 관심이 있거나 경험이 있는 경우 우대
 
 ## 지원하기 
-* [네이버 폼 지원](http://me2.do/xKeU8HO4)
-* 이메일지원 (<support@backpac.kr>)
+* 네이버 폼 지원 : [http://me2.do/xKeU8HO4](http://me2.do/xKeU8HO4)
+* 이메일지원 : <support@backpac.kr>
 * 파일 양식은 PDF로 부탁드립니다.  
+
+#### 지원하기전에 아이디어스 앱을 써보는건 어떨까요? 
+> * [iOS 다운로드](https://itunes.apple.com/kr/app/aidieoseu-idus-haendeumeideu/id872469884?mt=8)
+> * [안드로이드 다운로드] (https://play.google.com/store/apps/details?id=kr.backpackr.me.idus&hl=ko)
 
 
 ## 백패커는 어떤 회사인가요? 
