@@ -1,4 +1,4 @@
-# 아이디어스에서 개발자분들을 모십니다.
+# 아이디어스에서 재능있는 개발자를 모십니다.
 
 ![idus icon](https://raw.githubusercontent.com/backpackr/backpackr.github.com/master/images/idus_logo.jpg)
 
