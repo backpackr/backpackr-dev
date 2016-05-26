@@ -38,6 +38,7 @@
 * 개발이 재미있으신 분, 새로운 언어에 두려움이 없으신 분은 환영
 
 ### 프론트앤드(Frontend) 개발자
+* 경력 3년 이상 
 * 개발에 재미를 느끼는 자 
 * 새로운 환경, 언어, 프레임워크 등 새로운 것을 익히는데 두려움이 없으신 자 
 * 궁금한 것을 보면 풀어야 잠을 잘 수 있는 자
@@ -91,3 +92,7 @@
 > 2014.12 – 투자 유치 (동문파트너즈:다음카카오청년창업 & 실리콘벨리 Sazze Inc)
 
 > 현재  - 국내 No.1 핸드메이드 마켓플레이스 서비스, 아이디어스(idus) 운영 중
+> 
+
+![idus icon](https://raw.githubusercontent.com/backpackr/backpackr.github.com/master/images/recruit-total.jpg)
+
